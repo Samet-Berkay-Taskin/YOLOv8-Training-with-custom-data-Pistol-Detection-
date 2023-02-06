@@ -5,8 +5,8 @@
 - Verisetiyle önceden eğitilmiş model ile tespitleri yapabilirsiniz.
 
 ## Eğitim kısmı
--- İlk olarak Pistol_Datasets dosyasını zipleyin.
--- YOLOv8_tabanca_tespiti.ipynb, customized.yaml ve Pistol_Datasets.zip'i Google Drive'nize yükleyin.
--- Drive'de YOLOv8_tabanca_tespiti.ipynb'i açın.
+Markup : 1. İlk olarak Pistol_Datasets dosyasını zipleyin.
+         2. YOLOv8_tabanca_tespiti.ipynb, customized.yaml ve Pistol_Datasets.zip'i Google Drive'nize yükleyin.
+         3. Drive'de YOLOv8_tabanca_tespiti.ipynb'i açın.
 
 
