@@ -22,3 +22,5 @@ Eğitim bittikten sonra model DOSYALAR kısmında runs/detect/train/weights/best
 10.runs/detect/predict kısmına girip istediğiniz videoya veya fotoğrafa gelip sağ tıklayın ve yolunu kopyalayın.Aşağıdaki resimde gördüğünüz üzere kopyaladığınız yolu yapıştırın ve kodu çalıştırın.(Eğer video ise her video kodunu çalıştırdığınızda bir sonraki videoyu görmek için dosyalar kısmındaki "result_compressed.mp4"ü silin ve video kodunu çalıştırın.)
 ![](User_guide/e.png) 
 ##### Hepsi bu kadar
+
+## Verisetiyle önceden eğitilmiş model ile tespit
