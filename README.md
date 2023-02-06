@@ -9,8 +9,11 @@
 2. YOLOv8_tabanca_tespiti.ipynb, customized.yaml ve Pistol_Datasets.zip'i Google Drive'nize yükleyin.
 3. Drive'de YOLOv8_tabanca_tespiti.ipynb'i açın ve aşağıdaki fotoğraftaki kodları sırayla çalıştırın.
 ![](User_guide/a.png)
+
 4. ultralytics>ultralytics>yolo>data>datasets buraya yaml dosyasını atıyoruz.
+
 ![](User_guide/b.png)
+
 5. Google Drive'mizi yükleme kısmındaki kodu çalıştırın ve daha sonra Drive'deki datasetini yükleme kısmındaki kodu çalıştırın.
 6. Model eğitim kısmını istediğiniz epoch değerinde eğitime başlayın.(Tavsiyem epoch değerini 40 veya 50 yapın ve bu eğitim kısmı biraz uzun sürer bilginiz olsun.
 Eğitim bittikten sonra model DOSYALAR kısmında runs/detect/train/weights/best.pt konumuna kaydedilir (best.pt) modelimizdir.
