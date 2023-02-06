@@ -1,6 +1,6 @@
 # Pistol-Detection-YoloV8
  
-#### Yolov8 kullanarak kendi verisetimizle eğitebileceğimiz tabanca tespiti yapabilen model oluşturma.
+# Yolov8 kullanarak kendi verisetimizle eğitebileceğimiz tabanca tespiti yapabilen model oluşturma.
 - Yolov8'de kendi verisetimiz ile eğitebilir ve tespitlerde kendi eğittiğiniz modeli kullanabilirsiniz.
 - Verisetiyle önceden eğitilmiş model ile tespitleri yapabilirsiniz.
 
@@ -21,4 +21,4 @@ Eğitim bittikten sonra model DOSYALAR kısmında runs/detect/train/weights/best
 9. Yukarıdaki kırmızı alana /content/oluşturduğunuz_klasör_adı ve kodu çalıştırın.Kod çalışması bittikten sonra veriler runs/detect/predict kısmına kayıt olur.
 10.runs/detect/predict kısmına girip istediğiniz videoya veya fotoğrafa gelip sağ tıklayın ve yolunu kopyalayın.Aşağıdaki resimde gördüğünüz üzere kopyaladığınız yolu yapıştırın ve kodu çalıştırın.(Eğer video ise her video kodunu çalıştırdığınızda bir sonraki videoyu görmek için dosyalar kısmındaki "result_compressed.mp4"ü silin ve video kodunu çalıştırın.)
 ![](User_guide/e.png) 
-# Hepsi bu kadar
+##### Hepsi bu kadar
