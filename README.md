@@ -18,9 +18,14 @@ Eğitim bittikten sonra model DOSYALAR kısmında runs/detect/train/weights/best
 ![](User_guide/c.png)
 8. Fotoğraflar ve videolar yüklendikten sonra dosyalar kısmında boşluğa gelip sağ tıkla yeni klasör oluşturun ve yüklenen fotoğraf ve videoları bu klasöre atın.
 ![](User_guide/d.png)
-9. Yukarıdaki kırmızı alana /content/oluşturduğunuz_klasör_adı ve kodu çalıştırın.Kod çalışması bittikten sonra veriler runs/detect/predict kısmına kayıt olur.
-10.runs/detect/predict kısmına girip istediğiniz videoya veya fotoğrafa gelip sağ tıklayın ve yolunu kopyalayın.Aşağıdaki resimde gördüğünüz üzere kopyaladığınız yolu yapıştırın ve kodu çalıştırın.(Eğer video ise her video kodunu çalıştırdığınızda bir sonraki videoyu görmek için dosyalar kısmındaki "result_compressed.mp4"ü silin ve video kodunu çalıştırın.)
+9. Yukarıdaki kırmızı alana /content/oluşturduğunuz_klasör_adı ve lacivert alana /runs/detect/train/weights/best.pt yazın ardından kodu çalıştırın.Kod çalışması bittikten sonra veriler runs/detect/predict kısmına kayıt olur.
+10. runs/detect/predict kısmına girip istediğiniz videoya veya fotoğrafa gelip sağ tıklayın ve yolunu kopyalayın.Aşağıdaki resimde gördüğünüz üzere kopyaladığınız yolu yapıştırın ve kodu çalıştırın.(Eğer video ise her video kodunu çalıştırdığınızda bir sonraki videoyu görmek için dosyalar kısmındaki "result_compressed.mp4"ü silin ve video kodunu çalıştırın.)
 ![](User_guide/e.png) 
 ##### Hepsi bu kadar
 
 ## Verisetiyle önceden eğitilmiş model ile tespit
+1. YOLOv8_tabanca_tespiti.ipynb Google Drive'nize yükleyin ve YOLOv8_tabanca_tespiti.ipynb'i açın.Eğitim kısmındaki(yukarıda) 3. kısımdaki fotoğrafta gösterilen kodları çalıştırın.
+2. Bu repositoryden indirdiğiniz best.pt v test dosyasındaki tüm fotoğraf ve videoları tutup dosyalar kısmındaki boşluğa atın ve tamamiyle yüklenmesini bekleyin.(indirilen test dosyasına isterseniz ek video ve fotoğraf ekleyip veya direkt sadece bu verileri kullanarak tespiti yapabilirsiniz)
+![](User_guide/c.png)
+3. Eğitim kısmındaki (yukarıda) 8. kısmı ve 9. kısımdaki sadece kırmızı ile seçilen yeri değiştirin lacivert kalsın ve kodu çalıştırın.
+4. Eğitim kısmındaki (yukarıda) 10. kısmı yapın ve bu kadar.Eğitim yapmadan, eğitilmiş model ile tespitleri gerçekleştirebildiniz.
