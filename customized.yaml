@@ -1,0 +1,6 @@
+train: ../Pistol_Datasets/train/images
+val: ../Pistol_Datasets/valid/images
+
+nc: 1
+names: ['Tabanca']
+
