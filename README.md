@@ -10,7 +10,7 @@
 3. Drive'de YOLOv8_tabanca_tespiti.ipynb'i açın ve aşağıdaki fotoğraftaki kodları sırayla çalıştırın.
 ![](User_guide/a.png)
 
-4. ultralytics>ultralytics>yolo>data>datasets buraya yaml dosyasını atıyoruz.
+4. ( ultralytics>ultralytics>yolo>data>datasets ) buraya bu repositoryden indirdiğiniz yaml dosyasını atıyoruz.
 
 ![](User_guide/b.png)
 
