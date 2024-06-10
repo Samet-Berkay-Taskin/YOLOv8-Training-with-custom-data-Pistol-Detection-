@@ -3,7 +3,7 @@
  Bu proje, YOLOv8 kullanarak tabanca tespiti yapabilen bir model oluşturmayı içerir. Kendi veri setimizle eğiteceğimiz bu model ile tespitler gerçekleştirebilirsiniz.
  
  ## Veri Seti Oluşturma
-Resimleri MakeSense kullanarak etiketledim ve veri setini oluşturduktan sonra, eğitim (train) ve doğrulama (validation) olarak ikiye böldüm. Detaylı bilgi için [MakeSence'e gitmek için buraya tıklayın](https://www.makesense.ai/).
+Resimleri MakeSense kullanarak etiketledim ve veri setini oluşturduktan sonra, eğitim (train) ve doğrulama (validation) olarak ikiye böldüm. Detaylı bilgi için [MakeSense'e gitmek için buraya tıklayın](https://www.makesense.ai/).
 
 ## Eğitim kısmı
 1. **Veri Setini Hazırlayın:**
